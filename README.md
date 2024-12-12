@@ -1,40 +1,72 @@
-HyerMind Documentation
-Overview
-HyerMind is a time management app designed for students to organize their time effectively and track their academic progress. Using AI, it analyzes user-provided timetables and creates optimized study schedules while integrating tasks, lessons, resources, and scores—all in one convenient platform.
+# HyerMind
 
-Features
-AI-Powered Timetable Analysis: Upload your timetable, and AI will optimize your weekly schedule.
-Integrated Dashboard: Access your timetable, tasks, lessons, resources, and academic progress in one place.
-Progress Tracking: Monitor test scores and lesson completion status.
-Multi-Device Compatibility: Available for both web browsers and mobile devices.
-Getting Started
-Sign-Up Process
-Log in using Gmail or an Academic email.
-Complete a short questionnaire about your academic level and orientation.
-Upload your timetable to start.
-AI Timeline Creation
-After uploading your timetable, AI will analyze the data.
-A personalized timeline is suggested for your week’s workflow.
-APIs Used
-External APIs
-AI for timetable optimization.
-Academic lessons and resources.
-Academic exercises and resources.
-Test scores integration.
-Internal APIs (Suggestions)
-User Management: Manage sign-ins, user profiles, and academic data.
-Timetable Storage: Save and retrieve user-uploaded timetables.
-Progress Tracking: Track task completion and test scores.
-AI Scheduling: Process timetable data to generate schedules.
-Technical Details
-System Requirements: Works on modern web browsers and mobile operating systems.
-Deployment: To be determined.
-Integration Capabilities
-HyerMind connects to external platforms for:
+**HyerMind** is a time management application designed specifically for students. It allows users to organize their schedules, track progress in lessons and tasks, and utilize AI-driven timetable analysis to optimize their academic workflow.
 
-Accessing lessons and resources via APIs.
-Integrating student scores from external systems.
-Future Enhancements
-Lesson Recommendations: AI-driven resource suggestions tailored to the student’s academic level.
-Collaborative Tools: Features for group projects and shared timelines.
-Offline Mode: Access and update schedules without an internet connection.
+---
+
+## Features
+
+- **AI-Powered Timetable Analysis**: Automatically optimize your weekly schedule based on your uploaded timetable.  
+- **Integrated Dashboard**: Manage tasks, lessons, resources, and scores in one seamless platform.  
+- **Progress Tracking**: Monitor academic performance through test scores and lesson completion.  
+- **Multi-Device Compatibility**: Available on browsers and mobile devices for flexible usage.
+
+---
+
+## Getting Started
+
+### Sign-Up Process
+
+1. Log in using Gmail or an Academic email.  
+2. Complete a short questionnaire about your academic level and orientation.  
+3. Upload your timetable to begin.
+
+### AI Timeline Creation
+
+After uploading your timetable:
+- AI analyzes the data and provides a personalized timeline for your weekly workflow.
+
+---
+
+## APIs Used
+
+### External APIs
+
+1. **AI for Timetable Optimization**  
+2. **Academic Lessons and Resources**  
+3. **Academic Exercises and Resources**  
+4. **Student Test Scores Integration**
+
+### Internal APIs (Suggestions)
+
+- **User Management**: Manage sign-ins, profiles, and academic data.  
+- **Timetable Storage**: Save and retrieve uploaded timetables.  
+- **Progress Tracking**: Monitor task completion and test results.  
+- **AI Scheduling**: Generate optimized schedules from timetable data.
+
+---
+
+## Technical Details
+
+- **System Requirements**: Compatible with modern web browsers and mobile devices.  
+- **Deployment**: TBD.
+
+---
+
+## Integration Capabilities
+
+HyerMind connects seamlessly with external platforms:
+- Access academic lessons and resources via APIs.  
+- Sync student scores from third-party systems.
+
+---
+
+## Future Enhancements
+
+- **Lesson Recommendations**: AI-driven resource suggestions based on academic level.  
+- **Collaborative Tools**: Features for group projects and shared timelines.  
+- **Offline Mode**: Enable offline access and updates to schedules.
+
+---
+
+Let me know if this fits your needs or if you'd like any adjustments!
